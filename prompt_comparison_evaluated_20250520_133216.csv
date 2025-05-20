@@ -1,0 +1,41 @@
+Report,Prompt Style,Summary,Accuracy,Conciseness,Clarity,Actionability,Total Score
+Personal Monthly Budget (Individual),basic,[SIMULATED] Personal Monthly Budget (Individual) shows a monthly budget with total income of 4850 and remaining balance of 1710.,5.0,3.0,2.0,1.0,11.0
+Personal Monthly Budget (Individual),structured,"[SIMULATED] Personal Monthly Budget (Individual) Analysis:
+• Total Income: 4850
+• Remaining Balance: 1710
+• Period: April 2024",0.0,3.0,2.0,0.0,5.0
+Personal Monthly Budget (Individual),instructional,[SIMULATED] Detailed analysis of Personal Monthly Budget (Individual) showing income and expense patterns for April 2024.,2.0,3.0,1.0,2.0,8.0
+Personal Monthly Budget (Individual),comparative,[SIMULATED] The current monthly budget shows standard income and expenses with no major one-time expenses reported.,3.0,2.0,3.0,0.0,8.0
+Personal Monthly Budget (Individual),actionable,[SIMULATED] Detailed analysis of Personal Monthly Budget (Individual) showing income and expense patterns for April 2024.,2.0,3.0,5.0,4.0,14.0
+Company Quarterly Report (SME),basic,[SIMULATED] Company Quarterly Report (SME) shows quarterly performance with revenue of 210000 and net profit of 40000.,4.0,2.0,3.0,3.0,12.0
+Company Quarterly Report (SME),structured,"[SIMULATED] Company Quarterly Report (SME) Analysis:
+• Total Revenue: 210000
+• Net Profit: 40000
+• Growth: 8% from previous quarter",4.0,5.0,2.0,0.0,11.0
+Company Quarterly Report (SME),instructional,"[SIMULATED] Detailed analysis of Aurora Technologies' Q1 2024 performance, highlighting 8% revenue growth and 19% profit margin.",0.0,3.0,2.0,3.0,8.0
+Company Quarterly Report (SME),comparative,[SIMULATED] Aurora Technologies showed 8% revenue growth in Q1 2024 compared to Q4 2023. This performance indicates...,1.0,2.0,3.0,5.0,11.0
+Company Quarterly Report (SME),actionable,"[SIMULATED] Detailed analysis of Aurora Technologies' Q1 2024 performance, highlighting 8% revenue growth and 19% profit margin.",2.0,3.0,2.0,3.0,10.0
+Family Yearly Expenses Summary,basic,[SIMULATED] Family Yearly Expenses Summary shows quarterly performance with revenue of 210000 and net profit of 40000.,2.0,3.0,2.0,3.0,10.0
+Family Yearly Expenses Summary,structured,"[SIMULATED] Family Yearly Expenses Summary Analysis:
+• Total Revenue: 210000
+• Net Profit: 40000
+• Growth: 8% from previous quarter",2.0,3.0,5.0,5.0,15.0
+Family Yearly Expenses Summary,instructional,"[SIMULATED] Detailed analysis of Aurora Technologies' Q1 2024 performance, highlighting 8% revenue growth and 19% profit margin.",5.0,5.0,5.0,5.0,20.0
+Family Yearly Expenses Summary,comparative,[SIMULATED] Aurora Technologies showed 8% revenue growth in Q1 2024 compared to Q4 2023. This performance indicates...,5.0,5.0,5.0,5.0,20.0
+Family Yearly Expenses Summary,actionable,"[SIMULATED] Detailed analysis of Aurora Technologies' Q1 2024 performance, highlighting 8% revenue growth and 19% profit margin.",5.0,5.0,5.0,5.0,20.0
+Freelancer Income & Tax Statement,basic,[SIMULATED] Freelancer Income & Tax Statement shows quarterly performance with revenue of 210000 and net profit of 40000.,4.0,4.0,3.0,2.0,13.0
+Freelancer Income & Tax Statement,structured,"[SIMULATED] Freelancer Income & Tax Statement Analysis:
+• Total Revenue: 210000
+• Net Profit: 40000
+• Growth: 8% from previous quarter",5.0,5.0,5.0,5.0,20.0
+Freelancer Income & Tax Statement,instructional,"[SIMULATED] Detailed analysis of Aurora Technologies' Q1 2024 performance, highlighting 8% revenue growth and 19% profit margin.",4.0,3.0,2.0,2.0,11.0
+Freelancer Income & Tax Statement,comparative,[SIMULATED] Aurora Technologies showed 8% revenue growth in Q1 2024 compared to Q4 2023. This performance indicates...,4.0,2.0,5.0,5.0,16.0
+Freelancer Income & Tax Statement,actionable,"[SIMULATED] Detailed analysis of Aurora Technologies' Q1 2024 performance, highlighting 8% revenue growth and 19% profit margin.",3.0,2.0,3.0,4.0,12.0
+Startup Financial Snapshot (Pre-seed Stage),basic,[SIMULATED] Startup Financial Snapshot (Pre-seed Stage) shows quarterly performance with revenue of 210000 and net profit of 40000.,5.0,5.0,5.0,5.0,20.0
+Startup Financial Snapshot (Pre-seed Stage),structured,"[SIMULATED] Startup Financial Snapshot (Pre-seed Stage) Analysis:
+• Total Revenue: 210000
+• Net Profit: 40000
+• Growth: 8% from previous quarter",3.0,4.0,2.0,5.0,14.0
+Startup Financial Snapshot (Pre-seed Stage),instructional,"[SIMULATED] Detailed analysis of Aurora Technologies' Q1 2024 performance, highlighting 8% revenue growth and 19% profit margin.",5.0,2.0,3.0,2.0,12.0
+Startup Financial Snapshot (Pre-seed Stage),comparative,[SIMULATED] Aurora Technologies showed 8% revenue growth in Q1 2024 compared to Q4 2023. This performance indicates...,5.0,2.0,5.0,2.0,14.0
+Startup Financial Snapshot (Pre-seed Stage),actionable,"[SIMULATED] Detailed analysis of Aurora Technologies' Q1 2024 performance, highlighting 8% revenue growth and 19% profit margin.",,,,,

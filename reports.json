@@ -1,0 +1,84 @@
+{
+  "reports": [
+    {
+      "title": "Personal Monthly Budget (Individual)",
+      "period": "April 2024",
+      "total_income": 4850,
+      "income_sources": {
+        "full_time_salary": 3800,
+        "freelance_work": 1050
+      },
+      "key_expenses": {
+        "rent": 1700,
+        "groceries": 620,
+        "transportation": 280,
+        "subscriptions": 90,
+        "dining_out": 450
+      },
+      "remaining_balance": 1710,
+      "notes": "No major one-time expenses reported"
+    },
+    {
+      "title": "Company Quarterly Report (SME)",
+      "period": "Q1 2024",
+      "company_name": "Aurora Technologies",
+      "total_revenue": 210000,
+      "cost_of_goods_sold": 85000,
+      "operational_expenses": {
+        "salaries": 45000,
+        "marketing": 20000,
+        "office_rent": 12000,
+        "cloud_infrastructure": 8000
+      },
+      "net_profit": 40000,
+      "revenue_growth_vs_previous_quarter_percent": 8,
+      "previous_quarter": "Q4 2023"
+    },
+    {
+      "title": "Family Yearly Expenses Summary",
+      "period": "2023",
+      "family_name": "Ivanenko",
+      "total_annual_spending": 52400,
+      "major_categories": {
+        "mortgage": 18000,
+        "education": 7200,
+        "groceries": 6800,
+        "travel": 5500,
+        "utilities": 3000,
+        "healthcare": 2600
+      },
+      "household_income": 65000,
+      "emergency_fund_contributions": 3000
+    },
+    {
+      "title": "Freelancer Income & Tax Statement",
+      "period": "Fiscal Year 2023",
+      "freelancer_name": "Marta",
+      "total_income": 72300,
+      "number_of_clients": 38,
+      "business_expenses": {
+        "software_subscriptions": 1200,
+        "hardware_upgrades": 2400,
+        "co_working_space": 3300
+      },
+      "net_taxable_income": 65400,
+      "taxes_paid": 13100,
+      "tax_type": "Federal + Local"
+    },
+    {
+      "title": "Startup Financial Snapshot (Pre-seed Stage)",
+      "period": "First six months of 2024",
+      "startup_name": "QuickLedger",
+      "pre_seed_funding_received": 150000,
+      "spending_breakdown": {
+        "product_development": 55000,
+        "marketing": 30000,
+        "legal_and_compliance": 7000,
+        "founder_salaries": 36000,
+        "tools_software": 6000
+      },
+      "cash_runway_projection": "Until October 2024",
+      "current_burn_rate": "Implied from spending and runway"
+    }
+  ]
+}
