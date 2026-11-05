@@ -95,6 +95,4 @@ Each summary was evaluated on a scale from 0 to 5 for the following criteria:
 - Add automated evaluation of summary quality
 - Create an interactive web interface for comparing results
 
-## Author
 
-[Your Name] - [Your Contact/GitHub]
